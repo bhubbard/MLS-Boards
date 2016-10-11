@@ -1,12 +1,13 @@
 [
 	{
-	"name": "Baldwin County MLS",
-	"shortname": "BCMLS",
-	"state": "Alabama"
-	}, 
-	{
-	"name": "Chattanooga MLS",
-	"shortname": "CHTMLS",
-	"state": "Alabama"
+	"id" : "6290",
+	"name" : "GREATER LAS VEGAS ASSOCIATION OF REALTORS® INC",
+	"short-name" : "",
+	"count" : "12,722",
+	"website" : ":http://lasvegasrealtor.com",
+	"address" : {
+      		"street" : "",
+      		"state" : ""
+    		}
 	}
 ]
